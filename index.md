@@ -5,7 +5,7 @@
 <img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/banner.jpg?raw=true"/>
 
 
-## [Resume](https://github.com/RohanLone/Number-Plate-Detection-App)  [Portfolio]() [LinkedIn](https://www.linkedin.com/in/rohanlone/) 
+## [Resume]()  [Portfolio](https://rohanlone.github.io/portfolio/) [LinkedIn](https://www.linkedin.com/in/rohanlone/) 
 
 
 ---
@@ -38,7 +38,7 @@ Wildlife photography is a subject that I am spirited about. I've enjoyed the art
 >
 
 <img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/Image1.jpg?raw=true"/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Sundown
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Sundown
 <img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/IMG_5501.jpg?raw=true"/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    Indian cormorant, taken by me
 
