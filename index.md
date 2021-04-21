@@ -1,4 +1,15 @@
-[Home/]()About
+[Home]()/About
+
+# About
+
+<img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/banner.jpg?raw=true"/>
+
+
+## [Resume](https://github.com/RohanLone/Number-Plate-Detection-App)       [LinkedIn](https://www.linkedin.com/in/rohanlone/)        [Github](https://github.com/rohanlone/) 
+
+
+---
+# Career Objectives
 
 My name is Rohan Lone. I am pursuing a master’s degree at the **Swami Ramanand Teerth Marathwada University Nanded**. I am proficient in Python and Java programming languages, data retrieval and processing with SQL, data visualization with Power Bi, Tableau, and Matplotlib. I am interested in working with large datasets, including cleaning and connecting data. I enjoy reading about AI, tech, and Cloud Computing. 
 
