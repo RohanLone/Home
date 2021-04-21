@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+[Home/]()About
 
-You can use the [editor on GitHub](https://github.com/RohanLone/Home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Rohan Lone. I am pursuing a master’s degree at the **Swami Ramanand Teerth Marathwada University Nanded**. I am proficient in Python and Java programming languages, data retrieval and processing with SQL, data visualization with Power Bi, Tableau, and Matplotlib. I am interested in working with large datasets, including cleaning and connecting data. I enjoy reading about AI, tech, and Cloud Computing. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am very proficient at using Tensorflow to build and AI systems to solve Computer Vision and NLP problems. More details about these projects can be found below:
 
-### Markdown
+---
+# [View My Portfolio]()
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Hobbies
+---
 
-```markdown
-Syntax highlighted code block
+## Graphics Designing
+When you think outside the box, you will come up with creative, even imaginative solutions to problems.I love coming up with different ideas. Highly skilled with Adobe Illustrator. Graphic design is limitless in its possibilities. 
 
-# Header 1
-## Header 2
-### Header 3
+<img src=""/>
+<img src=""/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Some I've made!**
 
-- Bulleted
-- List
+---
+## Photography
+Wildlife photography is a subject that I am spirited about. I've enjoyed the artwork of wildlife photographers, Since I was a kid
 
-1. Numbered
-2. List
+> “Landscape photography is the supreme test of the photographer – and often the supreme disappointment.”
+> ― Ansel Adams
+>
 
-**Bold** and _Italic_ and `Code` text
+<img src=""/>
+<img src=""/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Indian cormorant, taken by me
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RohanLone/Home/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+##### © 2021 Rohan Lone
