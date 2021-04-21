@@ -14,8 +14,8 @@ I am very proficient at using Tensorflow to build and AI systems to solve Comput
 ## Graphics Designing
 When you think outside the box, you will come up with creative, even imaginative solutions to problems.I love coming up with different ideas. Highly skilled with Adobe Illustrator. Graphic design is limitless in its possibilities. 
 
-<img src=""/>
-<img src=""/>
+<img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/logo.jpg?raw=true"/>
+<img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/logo2.jpg?raw=true"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Some I've made!**
 
 ---
@@ -26,14 +26,12 @@ Wildlife photography is a subject that I am spirited about. I've enjoyed the art
 > ― Ansel Adams
 >
 
-<img src=""/>
-<img src=""/>
+<img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/Image1.jpg?raw=true"/>
+<img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/IMG_5501.jpg?raw=true"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Indian cormorant, taken by me
 
 
 ---
-
-
 
 
 
