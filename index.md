@@ -5,7 +5,7 @@
 <img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/banner.jpg?raw=true"/>
 
 
-## [Resume](https://github.com/RohanLone/Number-Plate-Detection-App)         [LinkedIn](https://www.linkedin.com/in/rohanlone/)          [Github](https://github.com/rohanlone/) 
+## [Resume](https://github.com/RohanLone/Number-Plate-Detection-App)                        [LinkedIn](https://www.linkedin.com/in/rohanlone/)                        [Github](https://github.com/rohanlone/) 
 
 
 ---
@@ -27,7 +27,7 @@ When you think outside the box, you will come up with creative, even imaginative
 
 <img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/logo.jpg?raw=true"/>
 <img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/logo2.jpg?raw=true"/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Some I've made!
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Some I've made!
 
 ---
 ## Photography
@@ -38,6 +38,7 @@ Wildlife photography is a subject that I am spirited about. I've enjoyed the art
 >
 
 <img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/Image1.jpg?raw=true"/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Sundown
 <img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/IMG_5501.jpg?raw=true"/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Indian cormorant, taken by me
 
