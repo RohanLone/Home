@@ -4,7 +4,7 @@
 
 <img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/banner.jpg?raw=true"/>
 
-&emsp;&emsp;&emsp;&emsp; View my:
+&emsp;&emsp;&emsp; View my:
 | [Resume](https://www.linkedin.com/in/rohanlone/)        | [Portfolio](https://rohanlone.github.io/portfolio/)          | [LinkedIn](https://www.linkedin.com/in/rohanlone/) |
 
 ---
