@@ -5,15 +5,11 @@
 <img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/banner.jpg?raw=true"/>
 
 
+## [Resume]()  [Portfolio](https://rohanlone.github.io/portfolio/) [LinkedIn](https://www.linkedin.com/in/rohanlone/) 
 
-<table width="100%" border="0">
-  <tr>    
-  <td><img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/Asset%202.png" alt="https://rohanlone.github.io/portfolio/" align="left" /></td>
-  <td><img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/Asset%202.png" alt="https://rohanlone.github.io/portfolio/" align="center" /></td>
-  <td><img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/Asset%202.png" alt="https://rohanlone.github.io/portfolio/" align="right"/></td>
-  </tr>
-</table>
+[button url="https://rohanlone.github.io/portfolio/"]
 
+<button name="Test Buton" onclick="https://www.linkedin.com/in/rohanlone/">Test Button</button>
 
 ---
 # Career Objectives
