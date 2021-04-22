@@ -11,6 +11,8 @@
 
 <button name="Test Buton" onclick="https://www.linkedin.com/in/rohanlone/">Test Button</button>
 
+[Click me](http://www.google.com){: .btn}
+
 ---
 # Career Objectives
 
