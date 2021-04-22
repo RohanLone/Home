@@ -5,7 +5,14 @@
 <img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/banner.jpg?raw=true"/>
 
 
-## [Resume]()  [Portfolio](https://rohanlone.github.io/portfolio/) [LinkedIn](https://www.linkedin.com/in/rohanlone/) 
+
+<table width="100%" border="0">
+  <tr>    
+  <td><img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/Asset%202.png" alt="https://rohanlone.github.io/portfolio/" align="left" /></td>
+  <td><img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/Asset%202.png" alt="https://rohanlone.github.io/portfolio/" align="center" /></td>
+  <td><img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/Asset%202.png" alt="https://rohanlone.github.io/portfolio/" align="right"/></td>
+  </tr>
+</table>
 
 
 ---
@@ -17,6 +24,8 @@ I am very proficient at using Tensorflow to build and AI systems to solve Comput
 
 ---
 # [View My Portfolio](https://rohanlone.github.io/portfolio/)
+
+
 ---
 
 # Hobbies
@@ -38,9 +47,9 @@ Wildlife photography is a subject that I am spirited about. I've enjoyed the art
 >
 
 <img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/Image1.jpg?raw=true"/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Sundown
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp  Sundown
 <img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/IMG_5501.jpg?raw=true"/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    Indian cormorant, taken by me
+&emsp;&emsp;&emsp;&emsp; Indian cormorant, taken by me
 
 
 ---
