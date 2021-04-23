@@ -5,7 +5,7 @@
 <img src="https://github.com/RohanLone/Home/blob/gh-pages/assets/images/banner.jpg?raw=true"/>
 
 &emsp;&emsp;&emsp; View my:
-| [Resume](https://www.linkedin.com/in/rohanlone/)        | [Portfolio](https://rohanlone.github.io/portfolio/)          | [LinkedIn](https://www.linkedin.com/in/rohanlone/) |
+| [Resume](https://rohanlone.github.io/Resume/)        | [Portfolio](https://rohanlone.github.io/portfolio/)          | [LinkedIn](https://www.linkedin.com/in/rohanlone/) |
 
 ---
 # Career Objectives
