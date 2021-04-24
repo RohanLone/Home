@@ -31,7 +31,7 @@ When you think outside the box, you will come up with creative, even imaginative
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Some I've made!
 
 ---
-:camera: ## Photography
+## Photography
 Wildlife photography is a subject that I am spirited about. I've enjoyed the artwork of wildlife photographers, Since I was a kid
 
 > “Landscape photography is the supreme test of the photographer – and often the supreme disappointment.”
